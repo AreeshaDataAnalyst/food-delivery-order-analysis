@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+seaborn
+train_test_split
+linear_model
+classification_report
